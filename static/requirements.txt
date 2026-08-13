@@ -1,4 +1,4 @@
 Faker
 pyTelegramBotAPI
 pipreqs
-dotenv
+python-dotenv
